@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Default -->
+    <string name="app_name">ColorPicker</string>
+    <string name="hello_world">Hello World</string>
+    <!-- For Graphical Layout -->
+	<string name="color_description_text">RGB</string>
+	<string name="seekbar_red_info_text">R</string>
+	<string name="seekbar_green_info_text">G</string>
+	<string name="seekbar_blue_info_text">B</string>
+</resources>

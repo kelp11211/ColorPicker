@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_layout_margin">18dp</dimen>
+    <dimen name="seekbar_layout_margin">18dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="seekbar_info_textsize">18dp</dimen>
+    <dimen name="color_description_textsize">20dp</dimen>
+    <dimen name="color_info_width">50dp</dimen>
+    <dimen name="color_board_textsize">36dp</dimen>
+</resources>
